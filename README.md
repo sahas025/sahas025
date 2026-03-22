@@ -13,28 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Languages
-- Python
-- C
-- JavaScript
-
-### 📊 Data & AI/ML
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-- Basic ML Models
-
-### 🌐 Web Development
-- HTML, CSS, JavaScript
-- React (Basics)
-- Node.js (Learning)
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Excel
+- **Languages:** Python, C, JavaScript  
+- **Data/ML:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Web:** HTML, CSS, React (Basics), Node.js (Learning)  
+- **Tools:** Git, GitHub, VS Code, Jupyter, Excel 
 
 ---
 
