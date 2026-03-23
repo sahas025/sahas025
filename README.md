@@ -54,7 +54,7 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [[Your LinkedIn Link]](https://www.linkedin.com/in/sahas-dubey/)
+- LinkedIn: [[Connect here]](https://www.linkedin.com/in/sahas-dubey/)
 - Email: sahasdubey91@gmail.com
 
 ---
